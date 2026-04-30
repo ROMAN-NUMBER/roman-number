@@ -5,7 +5,6 @@
  // SOFIA BORTOLOTTO 2147989
 ////////////////////////////////////////////////////////////////////
 
-Implementare un convertitore per i primi 1000 numeri interi da arabi a romani. Implementare un metodo per stampare i numeri romani in asciart.
 [![CI Pipeline](https://github.com/ROMAN-NUMBER/roman-number/actions/workflows/ci.yml/badge.svg)](https://github.com/ROMAN-NUMBER/roman-number/actions/workflows/ci.yml)
 
 Il progetto prevede la realizzazione di un sistema in grado di convertire numeri arabi (compresi tra 1 e 1000) nei corrispondenti numeri romani, con una rappresentazione finale in formato ASCII art. L’obiettivo principale è stato quello di applicare pratiche discusse durante il corso di Metodi e Tecnologie dello Sviluppo Software, integrando analisi statica e Continuous Integration.
@@ -19,7 +18,7 @@ In particolare, sono stati applicati i seguenti strumenti e pratiche:
 
 Test: Copertura del codice (Code Coverage) superiore all'85% (attuale: 89%).
 
-Analisi Statica
+Analisi Statica:
 Il progetto utilizza Checkstyle per garantire il rispetto dei vincoli di qualità e manutenibilità del codice. La build fallisce automaticamente in presenza di violazioni, garantendo il rispetto degli standard.
 
 Le attività sono state organizzate tramite una Project Board su GitHub e distribuite tra i membri del gruppo utilizzando il sistema di Issue Tracking. Lo sviluppo ha seguito il modello Git Flow, prevedendo l’apertura di una Pull Request per ciascuna nuova funzionalità implementata.
