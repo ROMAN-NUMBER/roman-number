@@ -97,12 +97,12 @@ public class RomanPrinter {
 
     private static String[] printAscii_X() {
         return new String[] {
-            " __    __ ",
-            " \\ \\  / / ",
-            "  \\ \\/ /  ",
-            "   >  <   ",
-            "  / /\\ \\  ",
-            " /_/  \\_\\ "
+                " __    __ ",
+                " \\ \\  / / ",
+                "  \\ \\/ /  ",
+                "   >  <   ",
+                "  / /\\ \\  ",
+                " /_/  \\_\\ "
         };
     }
 
