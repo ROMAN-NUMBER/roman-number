@@ -7,6 +7,8 @@
 
 [![CI Pipeline](https://github.com/ROMAN-NUMBER/roman-number/actions/workflows/ci.yml/badge.svg)](https://github.com/ROMAN-NUMBER/roman-number/actions/workflows/ci.yml)
 
+[![Coverage Status](https://coveralls.io/repos/github/ROMAN-NUMBER/roman-number/badge.svg?branch=main)](https://coveralls.io/github/ROMAN-NUMBER/roman-number?branch=main)
+
 
 Il progetto prevede la realizzazione di un sistema in grado di convertire numeri arabi (compresi tra 1 e 1000) nei corrispondenti numeri romani, con una rappresentazione finale in formato ASCII art. L’obiettivo principale è stato quello di applicare pratiche discusse durante il corso di Metodi e Tecnologie dello Sviluppo Software, integrando analisi statica e Continuous Integration.
 
