@@ -26,6 +26,6 @@ jobs:
 
       - name: Checkstyle
         run: mvn package
-        
+
       - name: Publish to Coveralls
         run: mvn coveralls:report -DrepoToken=${{ secrets.COVERALLS_REPO_TOKEN }}
