@@ -19,7 +19,7 @@ In particolare, sono stati applicati i seguenti strumenti e pratiche:
 -  realizzazione di test unitari mediante JUnit, applicando i principi A-TRIP e Right-BICEP, assicurando una copertura del codice superiore all’85% e adottando il       pattern AAA (Arrange, Act, Assert)
 -  automazione della build e del processo di integrazione continua attraverso pipeline di CI implementate con GitHub Actions
 
-Test: Copertura del codice (Code Coverage) superiore all'85% (attuale: 89%).
+Test: Copertura del codice (Code Coverage) superiore all'85% .
 
 Analisi Statica:
 Il progetto utilizza Checkstyle per garantire il rispetto dei vincoli di qualità e manutenibilità del codice. La build fallisce automaticamente in presenza di violazioni, garantendo il rispetto degli standard.
